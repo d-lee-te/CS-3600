@@ -23,8 +23,6 @@ This class was taught with Python.
 3. Inference - Particles/Particle Filtering for detecting ghosts in pacman game example
 4. (Classifier) Neural Net - No external packages or modules used
 
-### Debrief
-
 # Disclaimer
 As most of the course content belongs to either the College or the Professors, I am transcribing my work and assignments to record the course.
 
