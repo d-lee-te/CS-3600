@@ -21,7 +21,7 @@ This class was taught with Python.
   - A*
 2. Reward Functions - Value Iteration, Q-learning
 3. Inference - Particles/Particle Filtering for detecting ghosts in pacman game example
-4. (Classifier) Neural Net - No external libraries used
+4. (Classifier) Neural Net - No external packages or modules used
 
 ### Debrief
 
